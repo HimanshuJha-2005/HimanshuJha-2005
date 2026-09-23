@@ -22,7 +22,7 @@ himanshu = {
     "education": "B.Tech CSE '27 @ Parul University",
     "focus": ["Backend APIs", "Systems", "Security"],
     "building": "Secure, reliable backend systems + offensive security skills",
-    "currently": ["GATE prep", "PortSwigger Web Academy", "Bug bounty"],
+    "currently": ["PortSwigger Web Academy", "Bug bounty", "Detection engineering"],
     "highlight": "2nd Place — SAFETRONICS, Techfest IIT Bombay",
     "open_to": "Collaborations & Opportunities"
 }
@@ -63,11 +63,10 @@ himanshu = {
 **Security & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=bugcrowd&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Languages & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=kaggle&logoColor=white)
@@ -92,10 +91,9 @@ himanshu = {
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend_Development-Deepening-blue?style=for-the-badge)
+![Backend](https://img.shields.io/badge/API_Design_%26_Security-Deepening-blue?style=for-the-badge)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-Learning-brightgreen?style=for-the-badge)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Exploring-orange?style=for-the-badge)
-![GATE](https://img.shields.io/badge/GATE_Prep-In_Progress-purple?style=for-the-badge)
 
 </div>
 
