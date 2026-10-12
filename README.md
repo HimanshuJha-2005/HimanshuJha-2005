@@ -2,57 +2,82 @@
 
 # Hi there, I'm Himanshu Jha
 
+
 ### Backend Developer · Cybersecurity Enthusiast
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jha-728834337/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/himanshujha2035/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuJha-2005)
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Backend+Systems+%26+REST+APIs;Offensive+Security;Detection+%26+Response;Secure+by+Design" alt="Typing SVG" />
+
 
 </div>
 
+
 ---
+
 
 ## About Me
 
+
 ```python
-himanshu = {
+Himanshu = {
     "role": "Backend Developer | Cybersecurity Enthusiast",
     "education": "B.Tech CSE '27 @ Parul University",
     "focus": ["Backend APIs", "Systems", "Security"],
-    "building": "Secure, reliable backend systems + offensive security skills",
+    "building": "Secure Java full-stack systems + offensive security skills",
     "currently": ["PortSwigger Web Academy", "Bug bounty", "Detection engineering"],
     "highlight": "2nd Place — SAFETRONICS, Techfest IIT Bombay",
     "open_to": "Collaborations & Opportunities"
 }
 ```
 
+
 ---
+
 
 ## Featured Projects
 
+
 | Project | What it does | Highlights |
 |---------|-------------|------------|
-| [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & policy auto-responder | FastAPI backend, XGBoost (ROC-AUC 0.9056), TreeSHAP, audit ledger · Razorpay AI Buildathon 2026 |
+| [**ForgeCommerce**](https://github.com/HimanshuJha-2005/ForgeCommerce) | Full-stack commerce platform | Java Spring Boot + PostgreSQL + React, JWT RBAC, transactional checkout, 27 tests + CI |
+| [**TaskForge**](https://github.com/HimanshuJha-2005/TaskForge) | Team issue & project management | Membership-gated projects, enforced issue lifecycle, Streams dashboard, CI |
 | [**MargTrack**](https://github.com/HimanshuJha-2005/MargTrack) | GPS ride-audit & dispatch compliance engine | Python backend, AWS Cedar policy gates + Strands agent, 24 tests · WeMakeDevs x AWS 2026 |
-| [**Vayu-X**](https://github.com/HimanshuJha-2005/Vayu-X) | ESP32 autonomous air-quality robot | Embedded C++, HTTP JSON API, Android companion · Real hardware prototype |
+| [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & policy auto-responder | FastAPI backend, XGBoost (ROC-AUC 0.9056), TreeSHAP, audit ledger · Razorpay AI Buildathon 2026 |
+
 
 <div align="center">
 
-[![bhairava-ai](https://img.shields.io/badge/bhairava--ai-Fraud_Detection-ff6b6b?style=for-the-badge&logo=python&logoColor=white)](https://github.com/HimanshuJha-2005/bhairava-ai)
+
+[![ForgeCommerce](https://img.shields.io/badge/ForgeCommerce-Full_Stack_Commerce-1a56db?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HimanshuJha-2005/ForgeCommerce)
+[![TaskForge](https://img.shields.io/badge/TaskForge-Issue_Tracking-057a55?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HimanshuJha-2005/TaskForge)
 [![MargTrack](https://img.shields.io/badge/MargTrack-Compliance_Engine-4ecdc4?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/HimanshuJha-2005/MargTrack)
-[![Vayu-X](https://img.shields.io/badge/Vayu--X-Embedded_IoT-9b59b6?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/HimanshuJha-2005/Vayu-X)
+[![bhairava-ai](https://img.shields.io/badge/bhairava--ai-Fraud_Detection-ff6b6b?style=for-the-badge&logo=python&logoColor=white)](https://github.com/HimanshuJha-2005/bhairava-ai)
+
 
 </div>
 
+
 ---
+
 
 ## Tech Stack
 
+
 <div align="center">
 
+
 **Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -60,11 +85,13 @@ himanshu = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+
 **Security & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 **Languages & ML**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -72,37 +99,53 @@ himanshu = {
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=kaggle&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
+
 </div>
+
 
 ---
 
+
 ## GitHub Stats
 
+
 <div align="center">
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuJha-2005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=15&hide_border=true" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuJha-2005&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" alt="Top Languages" />
 
+
 </div>
+
 
 ---
 
+
 ## Currently Learning
 
+
 <div align="center">
+
 
 ![Backend](https://img.shields.io/badge/API_Design_%26_Security-Deepening-blue?style=for-the-badge)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-Learning-brightgreen?style=for-the-badge)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Exploring-orange?style=for-the-badge)
 
+
 </div>
+
 
 ---
 
+
 <div align="center">
+
 
 ### Thanks for stopping by!
 
+
 <img src="https://komarev.com/ghpvc/?username=HimanshuJha-2005&style=for-the-badge&color=89b4fa" alt="Profile views" />
+
 
 </div>
