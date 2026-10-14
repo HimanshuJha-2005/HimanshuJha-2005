@@ -1,151 +1,32 @@
-<div align="center">
+# Himanshu Jha
 
-# Hi there, I'm Himanshu Jha
+**Backend Engineer · Detection Engineering & Security Tooling**
 
-
-### Backend Developer · Cybersecurity Enthusiast
-
+B.Tech CSE '27 @ Parul University · 2nd Place — SAFETRONICS, Techfest IIT Bombay
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jha-728834337/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/himanshujha2035/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuJha-2005)
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Backend+Systems+%26+REST+APIs;Offensive+Security;Detection+%26+Response;Secure+by+Design" alt="Typing SVG" />
-
-
-</div>
-
+I build backend systems and the security tooling around them — scanners, detection rules, and automation with tested, reviewed, CI-gated code.
 
 ---
 
+## Selected Work
 
-## About Me
-
-
-```python
-Himanshu = {
-    "role": "Backend Developer | Cybersecurity Enthusiast",
-    "education": "B.Tech CSE '27 @ Parul University",
-    "focus": ["Backend APIs", "Systems", "Security"],
-    "building": "Secure Java full-stack systems + offensive security skills",
-    "currently": ["PortSwigger Web Academy", "Bug bounty", "Detection engineering"],
-    "highlight": "2nd Place — SAFETRONICS, Techfest IIT Bombay",
-    "open_to": "Collaborations & Opportunities"
-}
-```
-
+| Project | What it is | Proof |
+|---|---|---|
+| [**VulnScan**](https://github.com/HimanshuJha-2005/vulnscan) | Network vulnerability scanner — Java 21 virtual threads, SPI plugin system, SARIF/JSON output | 52 tests green · SpotBugs 0 findings · CI + docs |
+| [**Sigma Detection Rule**](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Production Sigma rule for PowerShell encoded commands (T1059.001), all bypass variants | FP analysis · 6 test cases · compiles to Splunk + Elastic |
+| [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & auto-responder | XGBoost ROC-AUC 0.9056 · SHAP explainability · Razorpay AI Buildathon |
+| [**MargTrack**](https://github.com/HimanshuJha-2005/MargTrack) | GPS ride-audit & dispatch compliance engine | AWS Cedar policy gates · 24 tests · WeMakeDevs × AWS |
+| [**ForgeCommerce**](https://github.com/HimanshuJha-2005/ForgeCommerce) | Commerce platform — Spring Boot + PostgreSQL + React | JWT RBAC · transactional checkout · 27 tests + CI |
 
 ---
 
+## Focus
 
-## Featured Projects
+- **Backend:** Java 21, Spring Boot, Python (FastAPI/Flask), PostgreSQL, Redis, REST APIs
+- **Security:** Sigma & MITRE ATT&CK, Splunk/Elastic, Burp Suite, PortSwigger Web Security Academy, bug bounty
+- **Practices:** JUnit/Testcontainers, SpotBugs/Checkstyle, GitHub Actions, Docker, AWS
 
-
-| Project | What it does | Highlights |
-|---------|-------------|------------|
-| [**ForgeCommerce**](https://github.com/HimanshuJha-2005/ForgeCommerce) | Full-stack commerce platform | Java Spring Boot + PostgreSQL + React, JWT RBAC, transactional checkout, 27 tests + CI |
-| [**TaskForge**](https://github.com/HimanshuJha-2005/TaskForge) | Team issue & project management | Membership-gated projects, enforced issue lifecycle, Streams dashboard, CI |
-| [**MargTrack**](https://github.com/HimanshuJha-2005/MargTrack) | GPS ride-audit & dispatch compliance engine | Python backend, AWS Cedar policy gates + Strands agent, 24 tests · WeMakeDevs x AWS 2026 |
-| [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & policy auto-responder | FastAPI backend, XGBoost (ROC-AUC 0.9056), TreeSHAP, audit ledger · Razorpay AI Buildathon 2026 |
-
-
-<div align="center">
-
-
-[![ForgeCommerce](https://img.shields.io/badge/ForgeCommerce-Full_Stack_Commerce-1a56db?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HimanshuJha-2005/ForgeCommerce)
-[![TaskForge](https://img.shields.io/badge/TaskForge-Issue_Tracking-057a55?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HimanshuJha-2005/TaskForge)
-[![MargTrack](https://img.shields.io/badge/MargTrack-Compliance_Engine-4ecdc4?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/HimanshuJha-2005/MargTrack)
-[![bhairava-ai](https://img.shields.io/badge/bhairava--ai-Fraud_Detection-ff6b6b?style=for-the-badge&logo=python&logoColor=white)](https://github.com/HimanshuJha-2005/bhairava-ai)
-
-
-</div>
-
-
----
-
-
-## Tech Stack
-
-
-<div align="center">
-
-
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-
-**Security & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-**Languages & ML**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=kaggle&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-
-</div>
-
-
----
-
-
-## GitHub Stats
-
-
-<div align="center">
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuJha-2005&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=15&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuJha-2005&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" alt="Top Languages" />
-
-
-</div>
-
-
----
-
-
-## Currently Learning
-
-
-<div align="center">
-
-
-![Backend](https://img.shields.io/badge/API_Design_%26_Security-Deepening-blue?style=for-the-badge)
-![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-Learning-brightgreen?style=for-the-badge)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Exploring-orange?style=for-the-badge)
-
-
-</div>
-
-
----
-
-
-<div align="center">
-
-
-### Thanks for stopping by!
-
-
-<img src="https://komarev.com/ghpvc/?username=HimanshuJha-2005&style=for-the-badge&color=89b4fa" alt="Profile views" />
-
-
-</div>
+Currently: detection engineering, Java internals, and red-team tooling. Open to backend and security engineering roles, internships, and collaborations.
