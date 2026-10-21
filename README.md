@@ -15,8 +15,8 @@ I build backend systems and the security tooling around them — scanners, detec
 
 | Project | What it is | Proof |
 |---|---|---|
-| [**VulnScan**](https://github.com/HimanshuJha-2005/vulnscan) | Network vulnerability scanner — Java 21 virtual threads, SPI plugin system, SARIF/JSON output | 52 tests green · SpotBugs 0 findings · CI + docs |
-| [**Sigma Detection Rule**](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Production Sigma rule for PowerShell encoded commands (T1059.001), all bypass variants | FP analysis · 6 test cases · compiles to Splunk + Elastic |
+| [**VulnScan**](https://github.com/HimanshuJha-2005/vulnscan) | Network vulnerability scanner — Java 21 virtual threads, SPI plugin system, SARIF/JSON output | 107 tests green · SpotBugs 0 findings · CI + docs |
+| [**Sigma Rules**](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Kubernetes audit detection for ephemeral containers (T1609) — upstream [SigmaHQ PR #6499](https://github.com/SigmaHQ/sigma/pull/6499) | sigma check clean · Splunk conversion · duplicate-checked |
 | [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & auto-responder | XGBoost ROC-AUC 0.9056 · SHAP explainability · Razorpay AI Buildathon |
 | [**MargTrack**](https://github.com/HimanshuJha-2005/MargTrack) | GPS ride-audit & dispatch compliance engine | AWS Cedar policy gates · 24 tests · WeMakeDevs × AWS |
 | [**ForgeCommerce**](https://github.com/HimanshuJha-2005/ForgeCommerce) | Commerce platform — Spring Boot + PostgreSQL + React | JWT RBAC · transactional checkout · 27 tests + CI |
