@@ -1,32 +1,26 @@
 # Himanshu Jha
 
-**Backend Engineer · Detection Engineering & Security Tooling**
+Backend engineer. B.Tech Computer Science, Parul University (2027).
 
-B.Tech CSE '27 @ Parul University
+I build backend services and the security tooling around them. Most of my work is Java and Python: network scanners, detection rules, APIs, and the tests and CI that keep them honest.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-jha-728834337/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/himanshujha2035/)
+[LinkedIn](https://www.linkedin.com/in/himanshu-jha-728834337/) | [LeetCode](https://leetcode.com/u/himanshujha2035/)
 
-I build backend systems and the security tooling around them — scanners, detection rules, and automation with tested, reviewed, CI-gated code.
+## Selected work
 
----
-
-## Selected Work
-
-| Project | What it is | Proof |
+| Project | What it is | Evidence |
 |---|---|---|
-| [**VulnScan**](https://github.com/HimanshuJha-2005/vulnscan) | Network vulnerability scanner — Java 21 virtual threads, SPI plugin system, SARIF/JSON output | 107 tests green · SpotBugs 0 findings · CI + docs |
-| [**Sigma Rules**](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Kubernetes audit detection for ephemeral containers (T1609) — upstream [SigmaHQ PR #6499](https://github.com/SigmaHQ/sigma/pull/6499) | sigma check clean · Splunk conversion · duplicate-checked |
-| [**bhairava-ai**](https://github.com/HimanshuJha-2005/bhairava-ai) | Real-time payment fraud detection & auto-responder | XGBoost ROC-AUC 0.9056 · SHAP explainability · Razorpay AI Buildathon |
-| [**MargTrack**](https://github.com/HimanshuJha-2005/MargTrack) | GPS ride-audit & dispatch compliance engine | AWS Cedar policy gates · 24 tests · WeMakeDevs × AWS |
-| [**ForgeCommerce**](https://github.com/HimanshuJha-2005/ForgeCommerce) | Commerce platform — Spring Boot + PostgreSQL + React | JWT RBAC · transactional checkout · 27 tests + CI |
+| [VulnScan](https://github.com/HimanshuJha-2005/vulnscan) | Java 21 network scanner: virtual-thread port scanning, 13 service probes, 10 protocol-aware checks, SARIF output | 107 tests, SpotBugs clean, CI |
+| [Sigma rules](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Detection engineering; Kubernetes ephemeral-container rule submitted upstream ([SigmaHQ PR #6499](https://github.com/SigmaHQ/sigma/pull/6499)) | `sigma check` clean, Splunk conversion, duplicate analysis |
+| [bhairava-ai](https://github.com/HimanshuJha-2005/bhairava-ai) | Payment fraud scoring and policy response: XGBoost, TreeSHAP, FastAPI, Streamlit | ROC-AUC 0.9056 on 118k held-out transactions, 15 tests |
+| [MargTrack](https://github.com/HimanshuJha-2005/MargTrack) | GPS trace audit engine: geometric violation detection, Cedar dispatch policy, Strands review agent | 24 tests, AWS Cedar and Strands |
+| [ForgeCommerce](https://github.com/HimanshuJha-2005/ForgeCommerce) | Spring Boot and PostgreSQL commerce backend with React storefront: JWT RBAC, transactional checkout, idempotent orders | 27 tests, CI, Docker Compose |
 
----
+## Tools
 
-## Focus
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend:** Spring Boot, FastAPI, Express, PostgreSQL, MongoDB, Redis
+- **Security:** Sigma, MITRE ATT&CK, Splunk, Elastic, Burp Suite
+- **Practice:** JUnit, pytest, Testcontainers, SpotBugs, Checkstyle, GitHub Actions, Docker, AWS
 
-- **Backend:** Java 21, Spring Boot, Python (FastAPI/Flask), PostgreSQL, Redis, REST APIs
-- **Security:** Sigma & MITRE ATT&CK, Splunk/Elastic, Burp Suite, PortSwigger Web Security Academy, bug bounty
-- **Practices:** JUnit/Testcontainers, SpotBugs/Checkstyle, GitHub Actions, Docker, AWS
-
-Currently: detection engineering, Java internals, and red-team tooling. Open to backend and security engineering roles, internships, and collaborations.
+Currently working on detection engineering and Java systems work. Open to backend and security engineering internships.
