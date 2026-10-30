@@ -1,26 +1,34 @@
 # Himanshu Jha
 
-Backend engineer. B.Tech Computer Science, Parul University (2027).
+Backend Engineer specializing in concurrent Java systems, transactional architectures, and resilient distributed data pipelines.
 
-I build backend services and the security tooling around them. Most of my work is Java and Python: network scanners, detection rules, APIs, and the tests and CI that keep them honest.
+[LinkedIn](https://www.linkedin.com/in/himanshu-jha-728834337/) • [Email](mailto:07himanshuraj@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/himanshu-jha-728834337/) | [LeetCode](https://leetcode.com/u/himanshujha2035/)
+---
 
-## Selected work
+### Core Engineering Focus
 
-| Project | What it is | Evidence |
-|---|---|---|
-| [VulnScan](https://github.com/HimanshuJha-2005/vulnscan) | Java 21 network scanner: virtual-thread port scanning, 13 service probes, 10 protocol-aware checks, SARIF output | 107 tests, SpotBugs clean, CI |
-| [Sigma rules](https://github.com/HimanshuJha-2005/sigma-rule-contribution) | Detection engineering; Kubernetes ephemeral-container rule submitted upstream ([SigmaHQ PR #6499](https://github.com/SigmaHQ/sigma/pull/6499)) | `sigma check` clean, Splunk conversion, duplicate analysis |
-| [bhairava-ai](https://github.com/HimanshuJha-2005/bhairava-ai) | Payment fraud scoring and policy response: XGBoost, TreeSHAP, FastAPI, Streamlit | ROC-AUC 0.9056 on 118k held-out transactions, 15 tests |
-| [MargTrack](https://github.com/HimanshuJha-2005/MargTrack) | GPS trace audit engine: geometric violation detection, Cedar dispatch policy, Strands review agent | 24 tests, AWS Cedar and Strands |
-| [ForgeCommerce](https://github.com/HimanshuJha-2005/ForgeCommerce) | Spring Boot and PostgreSQL commerce backend with React storefront: JWT RBAC, transactional checkout, idempotent orders | 27 tests, CI, Docker Compose |
+- **Systems & Concurrency:** Java 21 Virtual Threads, non-blocking I/O, custom protocol probes, thread-safe state machines.
+- **Transactional Consistency:** PostgreSQL row-level pessimistic locking (`SELECT ... FOR UPDATE`), distributed idempotency keys, ACID integrity.
+- **Data & AI Infrastructure:** Property graph persistence (FalkorDB over Redis protocol with GraphBLAS), explainable retrieval, FastAPI services.
+- **Reliability & Delivery:** CI-gated testing (JUnit, pytest), containerized setups (Docker Compose), static analysis (SpotBugs zero-defect standards), SARIF output formatting.
 
-## Tools
+---
 
-- **Languages:** Java, Python, JavaScript, SQL
-- **Backend:** Spring Boot, FastAPI, Express, PostgreSQL, MongoDB, Redis
-- **Security:** Sigma, MITRE ATT&CK, Splunk, Elastic, Burp Suite
-- **Practice:** JUnit, pytest, Testcontainers, SpotBugs, Checkstyle, GitHub Actions, Docker, AWS
+### Selected Projects
 
-Currently working on detection engineering and Java systems work. Open to backend and security engineering internships.
+| System | Architecture & Core Capabilities | Verification & Benchmarks |
+| :--- | :--- | :--- |
+| **[VulnScan](https://github.com/HimanshuJha-2005/vulnscan)** | Multithreaded network vulnerability scanner in Java 21 on virtual threads. Features 13-probe service fingerprinting (HTTP, SSH, DBs), SPI plugin engine with 10 protocol checks, SQLite scan resume, and SARIF/JSON reporting. | 52+ unit tests, zero SpotBugs findings, GitHub Actions CI |
+| **[Continuum](https://github.com/HimanshuJha-2005/continuum)** | Cross-agent graph memory engine built for WeMakeDevs × FalkorDB Graph Hacks. Anchors multi-agent context to a shared FalkorDB property graph with live Cypher traces and React/Cytoscape visualization. | Hackathon project, Docker Compose, AWS EC2 deployable |
+| **[ForgeCommerce](https://github.com/HimanshuJha-2005/ForgeCommerce)** | Commerce engine with Spring Boot, PostgreSQL, and React. Prevents overselling via single-transaction pessimistic locking, enforces client idempotency keys, and manages strict order state transitions. | 27 integration tests, Docker Compose, CI-tested |
+| **[Sigma Rule Contribution](https://github.com/HimanshuJha-2005/sigma-rule-contribution)** | Upstream detection engineering for Kubernetes ephemeral-container abuse ([SigmaHQ PR #6499](https://github.com/SigmaHQ/sigma/pull/6499)). | `sigma check` clean, Splunk & Elastic rule compilation |
+
+---
+
+### Technical Toolbelt
+
+- **Languages:** Java, Python, JavaScript, SQL, Bash
+- **Frameworks & Runtimes:** Spring Boot, FastAPI, Node.js, Express.js
+- **Databases & Caching:** PostgreSQL, FalkorDB, Redis, MongoDB, SQLite
+- **Engineering Practices:** Docker & Docker Compose, GitHub Actions, SpotBugs, Maven, JUnit, Postman, Git
